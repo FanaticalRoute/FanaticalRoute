@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FanaticalRoute
+- 🌱 I’m currently learning Web development and UI/UX design
+- 📫 Reach me on Discord: FanaticR#0637 or on Twitter: @FanaticalRoute
